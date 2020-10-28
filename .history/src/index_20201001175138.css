@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading {
+    color: blue;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.heading2 {
+    color: #c75757;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+}
