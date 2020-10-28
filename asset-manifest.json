@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactlearn2020/static/css/main.28a6bb87.chunk.css",
+    "main.js": "/reactlearn2020/static/js/main.49443d57.chunk.js",
+    "main.js.map": "/reactlearn2020/static/js/main.49443d57.chunk.js.map",
+    "runtime-main.js": "/reactlearn2020/static/js/runtime-main.97b6abe8.js",
+    "runtime-main.js.map": "/reactlearn2020/static/js/runtime-main.97b6abe8.js.map",
+    "static/js/2.0ecc1ba9.chunk.js": "/reactlearn2020/static/js/2.0ecc1ba9.chunk.js",
+    "static/js/2.0ecc1ba9.chunk.js.map": "/reactlearn2020/static/js/2.0ecc1ba9.chunk.js.map",
+    "index.html": "/reactlearn2020/index.html",
+    "precache-manifest.b2625c08ba21559ad99d044f21d62989.js": "/reactlearn2020/precache-manifest.b2625c08ba21559ad99d044f21d62989.js",
+    "service-worker.js": "/reactlearn2020/service-worker.js",
+    "static/css/main.28a6bb87.chunk.css.map": "/reactlearn2020/static/css/main.28a6bb87.chunk.css.map",
+    "static/js/2.0ecc1ba9.chunk.js.LICENSE.txt": "/reactlearn2020/static/js/2.0ecc1ba9.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/reactlearn2020/static/media/logo.3482f0a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97b6abe8.js",
+    "static/js/2.0ecc1ba9.chunk.js",
+    "static/css/main.28a6bb87.chunk.css",
+    "static/js/main.49443d57.chunk.js"
+  ]
+}
